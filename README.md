@@ -10,7 +10,6 @@ Status do GitHub 📊 :
 
 
 ### Tecnologias aprendidas durante o curso:
-
 <div style="display: inline_block"><br/>
   <h1> FrontEnd </h1>
    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
