@@ -8,6 +8,7 @@ Status do GitHub 📊 :
 ![Erik GitHub stats](https://github-readme-stats.vercel.app/api?username=duarterik&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duarterik&layout=compact)](https://github.com/duarterik/github-readme-stats)
 
+
 ### Tecnologias aprendidas durante o curso:
 
 <div style="display: inline_block"><br/>
