@@ -3,6 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erik-duarte-rodrigues
 )
 
+Status do GitHub 📊 :
+
 ![Erik GitHub stats](https://github-readme-stats.vercel.app/api?username=duarterik&show_icons=true&theme=tokyonight) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=duarterik&layout=compact)](https://github.com/duarterik/github-readme-stats)
 
