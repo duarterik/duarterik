@@ -1,4 +1,5 @@
 ### Olá! Eu sou o Erik Duarte Rodrigues! 👋
+Tenho 31 anos, recentemente me tornei desenvolvedor FrontEnd pela Trybe. Realizei inúmeros projetos que me fizeram desenvolver tanto as minhas hard skills, quanto as soft skills. Foram muitos meses de aprendizado e evolução. Aqui no meu perfil, irei postar alguns desses projetos.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/erik-duarte-rodrigues
 )
